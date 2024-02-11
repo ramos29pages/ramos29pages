@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Daniel Ramos</h1>
-<h3 align="center">A passionate frontend developer from Colombia.</h3>
+<h3 align="center">A passionate fullstack Junior developer from Colombia.</h3>
 
 <p align="left"> <a href="https://twitter.com/_denver29" target="blank"><img src="https://img.shields.io/twitter/follow/_denver29?logo=twitter&style=for-the-badge" alt="_denver29" /></a> </p>
 
-- 🔭 I’m currently working on **Quemapp**
+> 🔭 I’m currently working on **DIGITAL SOLUTIONS 324 SPAIN**
 
-- 🌱 I’m currently learning **MERN Stack, php, MySQL, SQL Server 2019.**
+> 🌱 I’m currently learning **.NET C#, VB.NET, ASP.NET, SQL Server 2022.**
 
-- 👯 I’m looking to collaborate on **Node.js**
+> 👯 I’m looking to collaborate on **Node.js | Angular | Spring Boot**
 
-- 🤝 I’m looking for help with **Express.js**
+> 🤝 I’m looking for help with **C# | dotnet**
 
-- 👨‍💻 All of my projects are available at [proximamente...](proximamente...)
+> 👨‍💻 All of my projects are available at [proximamente...](proximamente...)
 
-- 💬 Ask me about **Nodejs, Express, MongoDB, SQL**
+> 💬 Ask me about **Nodejs, Express, MongoDB, SQL, Java, JAvascript, .NET, SpringBoot**
 
-- 📫 How to reach me **danielramos9991@gmail.com**
+>  📫 How to reach me **danielramos9991@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
