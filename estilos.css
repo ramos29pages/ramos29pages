@@ -1,0 +1,163 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    height: 95vh;
+    width: 100vw;
+    display: grid;
+    place-items: center;
+}
+
+main {
+    width: 80vw;
+    max-width: 700px;
+    height: auto;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px;
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+main h2 {
+    text-align: center;
+    height: 40px;
+}
+
+main .inputs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .inputs .input {
+    color: white;
+    display: flex;
+    height: 40px;
+    align-items: center;
+}
+
+main .inputs .input input {
+    display: flex;
+    height: 40px;
+    align-items: stretch;
+    border-radius: 8px;
+    width: 200px;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.form-field {
+    position: relative;
+    padding: 0 10px 0px 0px;
+    height: 56px;
+    width: 368px;
+    display: grid;
+    margin: 5px;
+    background: #feead5 0% 0% no-repeat padding-box;
+    border-radius: 12px;
+    opacity: 1;
+}
+
+.form-field label {
+    position: absolute;
+    transition: all 0.2s linear;
+    margin-top: 15px;
+    padding-left: 5px;
+    opacity: 1;
+    font-size: 0.8rem;
+    width: 99%;
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+    font-weight: bold;
+    color: gray;
+}
+
+.form-field label:hover {
+    cursor: text;
+}
+
+.form-field input {
+    margin-top: 1rem;
+    width: 100%;
+    padding-left: 10px;
+    height: 30px;
+    background: transparent;
+    border: none;
+    text-align: center;
+    letter-spacing: 0px;
+    color: black;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.inputs .info{
+    font-size: 12px;
+    text-align: center;
+}
+
+.form-field input:focus {
+    outline: none;
+}
+
+.form-field input:focus+label,
+.form-field input:not(:placeholder-shown)+label {
+    transform: translateY(-15px);
+    font-weight: 500;
+    z-index: 10;
+    font-size: 0.7rem;
+    transition: all 0.2s linear;
+    text-align: center;
+}
+
+main .information {
+    display: grid;
+}
+
+main .information .cardinals {
+    display: grid;
+}
+
+main .buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+main .buttons button {
+    height: 40px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    transition: all .2s ease-in-out;
+}
+
+span{
+    color: orange;
+}
+
+main .buttons button:hover {
+    background-color: rgb(225, 147, 0);
+    transform: scale(1.15);
+    border-radius: 5px;
+    transition: all .2s ease-in-out;
+    cursor: pointer;
+}
+
+main .resultados{
+    background: rgb(221, 221, 221);
+    margin-top: 10px;
+    max-height: auto;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+}

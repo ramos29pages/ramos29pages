@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Operaciones de Conjuntos con Diagrama de Venn-Euler</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.0.0/d3.v7.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"
+    integrity="sha512-M7nHCiNUOwFt6Us3r8alutZLm9qMt4s9951uo8jqO4UwJ1hziseL6O3ndFyigx6+LREfZqnhHxYjKRJ8ZQ69DQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/venn.js@0.2.19/dist/venn.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/venn.js/0.2.14/venn.min.js"
+    integrity="sha512-GD8ARj8X9kekhAYRWlxSo6/bU0QHBdoyWi14HxBDIPUJKvOYxXe9Fac2b2SxjucmaxIJ+BraVRfBo144vbZoyQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+  <main>
+    <h2>Operaciones de Conjuntos con Diagrama de Venn-Euler</h2>
+    <div class="inputs">
+      <div class="form-field">
+        <input id="conjunt-one" type="text" placeholder=" " required>
+        <label for="conjunt-one">Primer conjunto</label>
+        <i class="user-icon"></i>
+      </div>
+      <div class="form-field">
+        <input id="conjunt-two" type="text" placeholder=" " required>
+        <label for="conjunt-two">Segundo conjunto</label>
+        <i class="user-icon"></i>
+      </div>
+      <p class="info">Separe los valores por coma <b>(,)</b>Ejemplo = 1,2,3</p>
+    </div>
+    <div class="information">
+      <div class="cardinals">
+        <h1 id="c1">Conjunto 1 <span id="c1-c1">{}</span></h1>
+      </div>
+      <div class="cardinals">
+        <h1 id="c2">Conjunto 2 <span id="c2-c2">{}</span></h1>
+      </div>
+    </div>
+    <div class="buttons">
+      <button id="btnInterception">Intercepcion</button>
+      <button id="btnUnion">Union</button>
+      <button id="btnExclude">Exlusion</button>
+    </div>
+    <div class="resultados">
+      <div id="venn"></div>
+    </div>
+  </main>
+
+  <script src="operaciones.js"></script>
+
+</body>
+
+</html>
