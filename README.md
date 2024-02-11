@@ -11,7 +11,7 @@
 
 > 🤝 I’m looking for help with **C# | dotnet**
 
-> 👨‍💻 All of my projects are available at [proximamente...](proximamente...)
+> 👨‍💻 All of my projects are available at [https://github.com/ramos29pages/ramos29pages/edit/main/README.md](https://github.com/ramos29pages/ramos29pages/edit/main/README.md)
 
 > 💬 Ask me about **Nodejs, Express, MongoDB, SQL, Java, JAvascript, .NET, SpringBoot**
 
