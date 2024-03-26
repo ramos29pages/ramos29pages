@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/_denver29" target="blank"><img src="https://img.shields.io/twitter/follow/_denver29?logo=twitter&style=for-the-badge" alt="_denver29" /></a> </p>
 
-> 🔭 I’m currently working on **DIGITAL SOLUTIONS 324 SPAIN**
+> 🔭 I’m currently working on **App para prediccion de pruebas ICFFES T y T y SaberPro**
 
-> 🌱 I’m currently learning **.NET C#, VB.NET, ASP.NET, SQL Server 2022.**
+> 🌱 I’m currently learning **DJANGO, SPRINGBOOT, SQL Server 2022.**
 
-> 👯 I’m looking to collaborate on **Node.js | Angular | Spring Boot**
+> 👯 I’m looking to collaborate on **Node.js | Angular | Spring Boot | Javascript**
 
 > 🤝 I’m looking for help with **C# | dotnet**
 
 > 👨‍💻 All of my projects are available at [https://github.com/ramos29pages](https://github.com/ramos29pages
 
-> 💬 Ask me about **Nodejs, Express, MongoDB, SQL, Java, JAvascript, .NET, SpringBoot**
+> 💬 Ask me about **Nodejs, Laravel, Express, Angular, MongoDB, SQL, Java, JAvascript, .NET, SpringBoot**
 
 >  📫 How to reach me **danielramos9991@gmail.com**
 
