@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/_denver29" target="blank"><img src="https://img.shields.io/twitter/follow/_denver29?logo=twitter&style=for-the-badge" alt="_denver29" /></a> </p>
 
-> 🔭 I’m currently working on **App para prediccion de pruebas ICFFES T y T y SaberPro**
+> 🔭 I’m currently working on **LUKIAPP Ecoomerce with IA LLM Open source Llama**
 
-> 🌱 I’m currently learning **DJANGO, SPRINGBOOT, SQL Server 2022.**
+> 🌱 I’m currently learning **Tranformers, RAG, Machine Learning, Data Analitics.**
 
-> 👯 I’m looking to collaborate on **Node.js | Angular | Spring Boot | Javascript**
+> 👯 I’m looking to collaborate on **Node.js | Angular | React | Spring Boot | Javascript**
 
-> 🤝 I’m looking for help with **C# | dotnet**
+> 🤝 I’m looking for help with **node | react**
 
 > 👨‍💻 All of my projects are available at [https://github.com/ramos29pages](https://github.com/ramos29pages
 
