@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Daniel Ramos</h1>
-<h3 align="center">A passionate fullstack Junior developer from Colombia.</h3>
+<h3 align="center">A passionate Systems Engineer and Fullstack Developer from Colombia. 😎</h3>
 
 <p align="left"> <a href="https://twitter.com/_denver29" target="blank"><img src="https://img.shields.io/twitter/follow/_denver29?logo=twitter&style=for-the-badge" alt="_denver29" /></a> </p>
 
-> 🔭 I’m currently working on **LUKIAPP Ecoomerce with IA LLM Open source Llama**
+> 🔭 I’m currently working on **Agent Ecomerce with IA LLM and RAG**
 
 > 🌱 I’m currently learning **Tranformers, RAG, Machine Learning, Data Analitics.**
 
-> 👯 I’m looking to collaborate on **Node.js | Angular | React | Spring Boot | Javascript**
+> 👯 I’m looking to collaborate on **Node.js | Angular | React | python | Javascript**
 
-> 🤝 I’m looking for help with **node | react**
+> 🤝 I’m looking for help with **node | react | nestjs | angular**
 
 > 👨‍💻 All of my projects are available at [https://github.com/ramos29pages](https://github.com/ramos29pages
 
-> 💬 Ask me about **Nodejs, Laravel, Express, Angular, MongoDB, SQL, Java, JAvascript, .NET, SpringBoot**
+> 💬 Ask me about **Nodejs, Laravel, Express, Angular, MongoDB, SQL, Java, Jsvascript, python, SpringBoot**
 
 >  📫 How to reach me **danielramos9991@gmail.com**
 
